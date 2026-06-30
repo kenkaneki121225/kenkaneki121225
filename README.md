@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm a Developer
 
-<!--
-**kenkaneki121225/kenkaneki121225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ My Tech Stack
 
-Here are some ideas to get you started:
+Here are the primary programming languages and tools I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Frontend Development | Backend Development |
+| :--- | :--- |
+| ![HTML5](https://shields.io) | ![Python](https://shields.io) |
+| ![CSS3](https://shields.io) | |
+| ![JavaScript](https://shields.io) | |
+
+### 🚀 What I Do
+- 🌐 Build interactive user interfaces with **HTML, CSS, and JS**.
+- 🐍 Process data and develop application logic with **Python**.
+- 📊 Always looking to learn more and expand my developer ecosystem!
